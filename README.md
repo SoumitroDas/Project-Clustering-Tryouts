@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis: Comprehensive Report
 
 ## Executive Summary
-This report details an extensive exploration of customer segmentation using clustering techniques on the Mall Customers dataset. The project aimed to identify optimal clustering methods and feature sets for segmenting customers based on demographic and behavioral data. Through rigorous experimentation with K-Means, DBSCAN, Hierarchical Clustering, and Gaussian Mixture Models (GMM), combined with feature engineering (introducing "Spending Efficiency"), we achieved nuanced insights into customer groups. Key findings include the superiority of Spending Efficiency features and the balanced performance of K-Means and DBSCAN.
+This report details an extensive exploration of customer segmentation using clustering techniques on the Mall Customers dataset. The project aimed to identify optimal clustering methods and feature sets for segmenting customers based on demographic and behavioral data. Through rigorous experimentation with K-Means, DBSCAN, Hierarchical Clustering, and Gaussian Mixture Models (GMM), combined with feature engineering (introducing "Spending Efficiency"), this project achieved nuanced insights into customer groups. Key findings include the superiority of Spending Efficiency features and the balanced performance of K-Means and DBSCAN.
 
 **Date of Analysis**: March 23, 2026  
 **Dataset**: Mall_Customers.csv (200 samples, 5 features)  
